@@ -18,3 +18,7 @@ Josh Tynjala is a frontend software developer, open source contributor, and kara
 Since 2012, Josh has developed [Feathers UI](https://feathersui.com/), a [Kickstarter-funded](https://www.kickstarter.com/projects/feathersui/feathers-ui-cross-platform-components-for-haxe-and-openfl) cross-platform UI component framework for creative projects — written in [Haxe](https://haxe.org/).
 
 Josh also maintains the [ActionScript & MXML](https://marketplace.visualstudio.com/items?itemName=bowlerhatllc.vscode-nextgenas) and [SWF Debugger](https://marketplace.visualstudio.com/items?itemName=bowlerhatllc.vscode-swf-debug) extensions for Visual Studio Code.
+
+📜 [Josh Tynjala's Blog](https://joshblog.net/)
+
+🐦 [@joshtynjala on Twitter](https://twitter.com/joshtynjala)
