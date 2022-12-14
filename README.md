@@ -23,4 +23,4 @@ Josh also maintains the [ActionScript & MXML](https://marketplace.visualstudio.c
 
 📜 [Josh Tynjala's Blog](https://joshblog.net/)
 
-🐘 <a href="https://mastodon.social/@joshtynjala" rel="me">@joshtynjala on Mastodon</a>
+🐘 [@joshtynjala on Mastodon](https://mastodon.social/@joshtynjala)
