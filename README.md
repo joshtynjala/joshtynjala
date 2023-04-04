@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 Josh Tynjala is a frontend software developer, open source contributor, and karaoke enthusiast.
 
-Since 2012, Josh has developed [Feathers UI](https://feathersui.com/), a [Kickstarter-funded](https://www.kickstarter.com/projects/feathersui/feathers-ui-cross-platform-components-for-haxe-and-openfl) cross-platform UI component framework for creative projects — written in [Haxe](https://haxe.org/). You can contribute to [Josh's work on Github Sponsors](https://github.com/sponsors/joshtynjala).
+Since 2012, Josh has developed [Feathers UI](https://feathersui.com/), a [Kickstarter-funded](https://www.kickstarter.com/projects/feathersui/feathers-ui-cross-platform-components-for-haxe-and-openfl) cross-platform UI component framework for creative projects — written in [Haxe](https://haxe.org/). You can contribute a monthly donation to [Josh's work on Github Sponsors](https://github.com/sponsors/joshtynjala).
 
-Recently, Josh was invited to join the leadership team of [OpenFL](https://openfl.org/), in recognition of his contributions to the project.
+In 2022, Josh was invited to join the leadership team of [OpenFL](https://openfl.org/), in recognition of his contributions to the project. OpenFL is an implementation of the APIs in Adobe Flash Player and Adobe AIR, using the Haxe programming language. OpenFL projects can target the web with JavaScript and WebGL/Canvas; native C++ on iOS and Android mobile devices; and native C++ on Windows, macOS, and Linux desktop computers (or with VMs such as Adobe AIR, Electron, and HashLink).
 
 Josh also maintains the [ActionScript & MXML](https://marketplace.visualstudio.com/items?itemName=bowlerhatllc.vscode-nextgenas) and [SWF Debugger](https://marketplace.visualstudio.com/items?itemName=bowlerhatllc.vscode-swf-debug) extensions for Visual Studio Code.
 
