@@ -31,6 +31,6 @@ Finally, Josh has recently started working to preserve an archive of Adobe's off
 
 ## Links
 
-📜 [Josh Tynjala's Blog](https://joshblog.net/) includes OpenFL Devlogs, project announcements, and more.
-🐘 [@joshtynjala on Mastodon](https://mastodon.social/@joshtynjala)
-🦋 [@joshtynjala on Bluesky](https://bsky.app/profile/joshtynjala.bsky.social)
+- [Josh Tynjala's Blog](https://joshblog.net/) includes OpenFL Devlogs, project announcements, and more.
+- [Josh Tynjala on Mastodon](https://mastodon.social/@joshtynjala)
+- [Josh Tynjala on Bluesky](https://bsky.app/profile/joshtynjala.bsky.social)
