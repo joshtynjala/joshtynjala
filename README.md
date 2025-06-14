@@ -28,6 +28,7 @@ Finally, Josh has recently started working to preserve an archive of Adobe's off
 - [Josh Tynjala on GitHub Sponsors](https://github.com/sponsors/joshtynjala)
 - [Josh Tynjala on Patreon](https://patreon.com/josht)
 - [Josh Tynjala on Liberapay](https://liberapay.com/joshtynjala/)
+- [Josh Tynjala on Ko-fi](https://ko-fi.com/joshtynjala)
 
 ## Links
 
